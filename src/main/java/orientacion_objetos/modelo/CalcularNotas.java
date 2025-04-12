@@ -1,7 +1,7 @@
 package orientacion_objetos.modelo;
 
 import java.util.List;
-
+//Rodolfo Parada Gónzalez
 public class CalcularNotas {
     private final double[] ponderaciones = {0.07, 0.14, 0.21, 0.07, 0.07, 0.14, 0.30};
 

@@ -10,7 +10,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.ArrayList;
 import java.util.List;
-
+//Rodolfo Parada Gónzalez
 public class VistaCalculo extends JFrame {
 
     // Campos de entrada y botones de la interfaz

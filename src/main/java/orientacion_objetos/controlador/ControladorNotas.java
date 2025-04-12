@@ -10,7 +10,7 @@ import java.awt.event.ActionListener;
 public class ControladorNotas {
     private VistaCalculo vista;
     private CalcularNotas modelo;
-
+//Rodolfo Parada Gónzalez
     public ControladorNotas(VistaCalculo vista) {
         this.vista = vista;
         this.modelo = new CalcularNotas();
